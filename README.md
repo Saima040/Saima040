@@ -1,146 +1,176 @@
+
 <div align="center">
 
-# 👩‍💻 Hey, I'm Saima!
+<img src="assets/hijabi-ai-girl.png" width="210" alt="Cute hijabi girl coding sticker" />
 
-### `Computer Science Student` · `AI/ML Explorer` · `AI Security Enthusiast`
+# ୨୧ Hi, I'm Saima! 💜
 
-**Building intelligent systems. Testing their limits. Exploring safer AI.**
+### CSE Student • AI/ML Explorer • AI Security Enthusiast
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Exploring+Artificial+Intelligence;Learning+Machine+Learning;Investigating+AI+Security;Building+Projects+That+Matter" alt="Typing animation" />
-</p>
+*Building intelligent systems. Testing their limits. Exploring safer AI.* ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=DDA0FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+little+AI+universe+%E2%9C%A8;Learning+AI%2FML+one+experiment+at+a+time;Breaking+models+to+understand+their+weaknesses;Dreaming+big%2C+coding+with+purpose+%F0%9F%92%9C" alt="Animated introduction" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-Saima040-181717?style=for-the-badge&logo=github)](https://github.com/Saima040)
+[![Repositories](https://img.shields.io/badge/Explore-My_Projects-C084FC?style=for-the-badge&logo=github)](https://github.com/Saima040?tab=repositories)
+
+<a href="#about-me">♡ About</a> •
+<a href="#inside-my-ai-lab">♡ AI Lab</a> •
+<a href="#featured-projects">♡ Projects</a> •
+<a href="#my-research-journey">♡ Research</a> •
+<a href="#my-tech-playground">♡ Skills</a> •
+<a href="#lets-connect">♡ Contact</a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🌷 About Me ♡
 
-Hi! I'm a CSE student from Bangladesh interested in building practical software and understanding how intelligent systems work.
+Hi there! I'm a Computer Science and Engineering student from Bangladesh who loves exploring technology, building projects, and learning how intelligent systems work.
 
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning.
+- 🎀 Exploring Artificial Intelligence, Machine Learning, and Deep Learning.
 - 🛡️ Interested in adversarial machine learning and AI security.
-- 💻 Building projects to turn ideas into working applications.
-- 🔬 Learning how to evaluate model performance, robustness, and reliability.
-- 🌱 Always learning something new and improving through hands-on projects.
+- 💻 Turning ideas into practical software projects.
+- 🔬 Learning to evaluate model robustness and reliability.
+- 🌱 Growing one experiment, one project, and one lesson at a time.
+
+> *A curious mind, a little creativity, and lots of code. ♡*
 
 ---
 
-## 🧪 Inside My AI Lab
+## 🧪 Inside My AI Lab ♡
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### 🏗️ BUILD
+| 🏗️ BUILD | ⚔️ ATTACK | 🛡️ DEFEND |
+|:---:|:---:|:---:|
+| Build practical applications and ML projects. | Investigate model weaknesses through controlled experiments. | Explore ways to improve model robustness. |
+| `AI/ML` `Software` | `Adversarial ML` `Testing` | `Robust AI` `Defense` |
 
-Develop practical solutions.
+</div>
 
-Machine Learning · Software Development · Web Applications
+### 🔍 My research interests
 
-</td>
-<td width="33%" align="center">
+- Adversarial examples and model vulnerabilities.
+- Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD).
+- Adversarial training and robustness evaluation.
+- Trustworthy and reliable AI systems.
 
-### ⚔️ ATTACK
-
-Study AI vulnerabilities in controlled experiments.
-
-Adversarial Examples · Model Evaluation · Robustness Testing
-
-</td>
-<td width="33%" align="center">
-
-### 🛡️ DEFEND
-
-Explore ways to make AI more reliable.
-
-Adversarial Training · Robust AI · Model Security
-
-</td>
-</tr>
-</table>
+*Research interests are not claims of completed experiments or publications.*
 
 ---
 
-## 🛠️ Technologies
+## 🎀 Featured Projects
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<a href="https://github.com/Saima040/smart-retail-pos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saima040&repo=smart-retail-pos&theme=tokyonight&hide_border=true" alt="Smart Retail POS repository card" />
+</a>
 
-**Development Tools & Frameworks**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 💻 Other work
 
-*Technologies shown here reflect my development experience and learning interests.*
-
----
-
-## 🚀 Featured Projects
-
-Explore my repositories to see what I'm building.
-
-| Project | What to Explore |
+| Project | Description |
 |---|---|
-| [Smart Retail POS](https://github.com/Saima040/smart-retail-pos) | Retail management software and inventory features |
-| [CR Election](https://github.com/Saima040) | Student election application development |
-| [Machine Learning Projects](https://github.com/Saima040) | My experiments and learning journey in AI/ML |
+| 🗳️ CR Election | Student election application development. |
+| 🧠 ML Experiments | Machine learning coursework and experiments. |
+| 🌐 Web Development | Practical application development. |
 
-*Project descriptions and links will be refined as I organize my repositories.*
+[♡ Explore all my repositories](https://github.com/Saima040?tab=repositories)
 
----
-
-## 🔬 Current Research Interests
-
-- Adversarial attacks against machine learning models.
-- Adversarial training and defensive techniques.
-- Comparing model performance under clean and adversarial conditions.
-- Trustworthy and robust artificial intelligence.
-
-**My approach:** Build it → Test it → Understand its weaknesses → Explore better defenses.
+*I'll add direct links to the other projects as their repository URLs are confirmed.*
 
 ---
 
-## 📊 My GitHub
+## 🔬 My Research Journey ♡
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saima040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+| Stage | Focus |
+|:---:|---|
+| 🌱 Foundations | Machine learning and deep learning fundamentals |
+| 🧪 Experiments | Testing models and evaluating performance |
+| ⚔️ Investigation | Studying adversarial attacks and vulnerabilities |
+| 🛡️ Defense | Exploring adversarial training and robust AI |
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saima040&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Saima040&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+### 💌 Research notebook
+
+**Question I'm curious about:** Can adversarial training improve a model's robustness without significantly reducing its clean-data accuracy?
+
+**What I want to measure:**
+- Accuracy on clean data.
+- Accuracy under adversarial attacks.
+- Robustness gap between clean and attacked performance.
+- The effectiveness and limitations of defensive techniques.
+
+*This is a research direction, not a reported result.*
+
+---
+
+## 🧸 My Tech Playground
+
+<div align="center">
+
+### Languages ♡
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=dark" alt="Programming language icons" />
+
+### Frameworks & Development ♡
+
+<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=dark" alt="Framework and web development icons" />
+
+### Tools I Use ♡
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=dark" alt="Developer tools icons" />
 
 </div>
 
 ---
 
-## 🎯 What's Next?
-
-- [ ] Build more practical AI/ML projects.
-- [ ] Explore adversarial machine learning experiments.
-- [ ] Improve my software development skills.
-- [ ] Document experiments and share what I learn.
-
----
+## 📊 My GitHub Universe ✨
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saima040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-*Curiosity drives the code. Experiments drive the learning.*
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saima040&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-[Explore my repositories →](https://github.com/Saima040?tab=repositories)
+<img width="70%" src="https://streak-stats.demolab.com?user=Saima040&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-<!-- Every model has weaknesses. Every experiment teaches something. -->
+---
+
+## 🌸 Little Things About My Journey
+
+- 💜 I believe curiosity is one of the best tools a developer can have.
+- 🧩 I enjoy learning by building and experimenting.
+- 🔐 AI security lets me combine my interests in machine learning and cybersecurity.
+- ✨ My goal is to create useful projects and grow as a researcher.
+
+---
+
+## 💌 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/Saima040">
+  <img src="https://img.shields.io/badge/GitHub-Follow_my_journey-181717?style=for-the-badge&logo=github" alt="Visit my GitHub" />
+</a>
+
+<br/><br/>
+
+**Have an interesting idea or AI project? Let's build something meaningful!** 💜
+
+*Dream • Code • Experiment • Learn*
+
+♡ Thank you for visiting my little corner of GitHub! ♡
+
+</div>
+
+<!-- A little reminder: stay curious, keep experimenting, and be kind. -->
