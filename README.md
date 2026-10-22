@@ -3,7 +3,7 @@
 
 <img src="assets/hijabi-ai-girl.png" width="210" alt="Cute hijabi girl coding sticker" />
 
-# ୨୧ Hi, I'm Saima! 💜
+# Hi, I'm Saima! 💜
 
 ### CSE Student • AI/ML Explorer • AI Security Enthusiast
 
@@ -91,25 +91,39 @@ I'm interested in understanding how AI models behave under challenging condition
 
 ---
 
-## 🧸 My Tech ground
+
+## 🧸 My Tech Playground ♡
 
 <div align="center">
 
-### Languages ♡
+### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=dark" alt="Programming language icons" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=dark" alt="Programming languages" />
 
-### Frameworks & Development ♡
+### 🎨 Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=dark" alt="Framework and web development icons" />
+<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=dark" alt="Frameworks and web development" />
 
-### Tools I Use ♡
+### 🧰 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=dark" alt="Developer tools icons" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=dark" alt="Developer tools" />
 
 </div>
 
 ---
+
+## 🌸 My Developer Personality
+
+<div align="center">
+
+| 💜 My vibe | ✨ My approach |
+|---|---|
+| Curious researcher | Learn by experimenting |
+| Creative developer | Build practical projects |
+| AI security enthusiast | Understand weaknesses and defenses |
+
+</div>
+
 
 ## 📊 My GitHub Universe ✨
 
@@ -144,7 +158,7 @@ I'm interested in understanding how AI models behave under challenging condition
 
 <br/><br/>
 
-**Build something meaningful!** 💜
+**Building something meaningful!** 💜
 
 *Dream • Code • Experiment • Learn*
 
