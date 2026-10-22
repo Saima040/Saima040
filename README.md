@@ -50,16 +50,19 @@ Hi there! I'm a Computer Science and Engineering student from Bangladesh who lov
 
 </div>
 
-### 🔍 My research interests
 
-- Adversarial examples and model vulnerabilities.
-- Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD).
-- Adversarial training and robustness evaluation.
-- Trustworthy and reliable AI systems.
+### 🔬 Exploring the Frontiers of AI ♡
 
-*Research interests are not claims of completed experiments or publications.*
+I'm interested in understanding how AI models behave under challenging conditions and how we can make them more reliable, secure, and robust.
 
----
+- 🧠 **Adversarial Machine Learning** — Exploring how carefully crafted inputs can affect model predictions.
+- ⚔️ **AI Vulnerability Analysis** — Investigating model weaknesses through controlled experiments.
+- 🛡️ **Robustness & Defense** — Exploring adversarial training and techniques for improving model resilience.
+- 📊 **Model Evaluation** — Comparing clean accuracy, adversarial accuracy, and robustness.
+- ✨ **Trustworthy AI** — Learning how to build AI systems that are more reliable and dependable.
+
+> *My goal is to understand where AI models fail, why they fail, and how we can make them stronger.*
+
 
 ## 🎀 Featured Projects
 
@@ -85,34 +88,10 @@ Hi there! I'm a Computer Science and Engineering student from Bangladesh who lov
 
 ---
 
-## 🔬 My Research Journey ♡
-
-<div align="center">
-
-| Stage | Focus |
-|:---:|---|
-| 🌱 Foundations | Machine learning and deep learning fundamentals |
-| 🧪 Experiments | Testing models and evaluating performance |
-| ⚔️ Investigation | Studying adversarial attacks and vulnerabilities |
-| 🛡️ Defense | Exploring adversarial training and robust AI |
-
-</div>
-
-### 💌 Research notebook
-
-**Question I'm curious about:** Can adversarial training improve a model's robustness without significantly reducing its clean-data accuracy?
-
-**What I want to measure:**
-- Accuracy on clean data.
-- Accuracy under adversarial attacks.
-- Robustness gap between clean and attacked performance.
-- The effectiveness and limitations of defensive techniques.
-
-*This is a research direction, not a reported result.*
 
 ---
 
-## 🧸 My Tech Playground
+## 🧸 My Tech ground
 
 <div align="center">
 
@@ -165,7 +144,7 @@ Hi there! I'm a Computer Science and Engineering student from Bangladesh who lov
 
 <br/><br/>
 
-**Have an interesting idea or AI project? Let's build something meaningful!** 💜
+**Build something meaningful!** 💜
 
 *Dream • Code • Experiment • Learn*
 
