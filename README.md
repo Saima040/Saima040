@@ -202,9 +202,15 @@ My learning roadmap:
   <i>A little progress every day adds up to something beautiful. ♡</i>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true" width="100%" alt="Pastel GitHub contribution activity graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Saima040&show_icons=true&hide_border=true&bg_color=fff7fc&title_color=9b72b0&text_color=8b7299&icon_color=e6a4d7"
+    width="100%"
+    alt="Pastel GitHub statistics"
+  />
 </p>
+
 
 <p align="center">
   🌱 Every commit is a chance to learn. Every project is a chance to grow.
@@ -220,6 +226,5 @@ My learning roadmap:
 <p align="center">
   <sub>
     Thank you for visiting my little corner of GitHub! 💜
-    The counter estimates visits, not unique individual visitors.
   </sub>
 </p>
