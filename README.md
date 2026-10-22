@@ -193,52 +193,37 @@ My learning roadmap:
 
 **My little motto:** Progress over perfection. Curiosity over assumptions. ♡
 
----
-
-## 💻 My GitHub Garden
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true" width="100%" alt="Pastel GitHub contribution activity graph" />
-
-<br/>
-
-*Every contribution is a little step forward. 🌷*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saima040&style=flat-square&color=cba6f7&label=Profile+visits" alt="Profile visit counter" />
-
-<br/>
-
-<sub>This counter estimates profile visits; it does not reliably count unique people.</sub>
-
-</div>
 
 ---
 
-## 💌 Send Me a Wave
+## 🌷 My GitHub Garden
 
-<div align="center">
+<p align="center">
+  <i>A little progress every day adds up to something beautiful. ♡</i>
+</p>
 
-Got an interesting idea, a cool project, or a question about AI?
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity in pastel colors"
+  />
+</p>
 
-I'd love to explore, learn, and build meaningful things with curious people. ♡
+<p align="center">
+  🌱 Every commit is a chance to learn. Every project is a chance to grow.
+</p>
 
-<br/>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Saima040&style=flat-square&color=cba6f7&label=Little+visits"
+    alt="Estimated profile visits"
+  />
+</p>
 
-<a href="https://github.com/Saima040">
-  <img src="https://img.shields.io/badge/Visit_my_GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
-</a>
-
-<br/><br/>
-
-**Thanks for stopping by my little corner of the internet!** 🌷
-
-*Stay curious. Keep creating. Be kind.*
-
-୨୧ ────────── 💜 ────────── ୨୧
-
-</div>
-
-<!-- A tiny note from the digital garden: keep growing, even on slow days. -->
+<p align="center">
+  <sub>
+    Thank you for visiting my little corner of GitHub! 💜
+    The counter estimates visits, not unique individual visitors.
+  </sub>
+</p>
