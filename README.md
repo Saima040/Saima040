@@ -9,7 +9,7 @@
 
 *She codes, she questions, she experiments. ✨*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=700&color=CBA6F7&center=true&vCenter=true&width=540&lines=Welcome+to+my+digital+playground+%E2%99%A1;Curiosity+compiled+into+code;Exploring+the+beautiful+side+of+AI;Making+AI+stronger%2C+one+experiment+at+a+time" alt="Animated welcome" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=700&color=C084B8&center=true&vCenter=true&width=540&lines=Welcome+to+my+digital+playground+%E2%99%A1;Curiosity+compiled+into+code;Exploring+the+beautiful+side+of+AI;Making+AI+stronger%2C+one+experiment+at+a+time" alt="Animated welcome" />
 
 [♡ About Me](#-a-little-about-me) ·
 [♡ AI Lab](#-the-ai-lab) ·
@@ -21,6 +21,10 @@
 
 [![GitHub](https://img.shields.io/badge/Find_me_on-GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saima040)
 [![Repositories](https://img.shields.io/badge/My-little_projects-f4a7c5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saima040?tab=repositories)
+
+<br/>
+
+♡ Learn · Build · Experiment · Improve ♡
 
 </div>
 
@@ -95,20 +99,20 @@ Comparing model performance on clean and adversarial inputs to understand the tr
 <div align="center">
 
 <a href="https://github.com/Saima040/smart-retail-pos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saima040&repo=smart-retail-pos&theme=tokyonight&hide_border=true" alt="Smart Retail POS project card" />
+  <img src="https://img.shields.io/badge/🛍️_Smart_Retail_POS-Explore_the_project-e8b4d8?style=for-the-badge&labelColor=fff2fa" alt="Explore Smart Retail POS" />
 </a>
 
 </div>
 
 ### 🗂️ My project collection
 
-| Project | Explore |
-|---|---|
-| 🛍️ Smart Retail POS | [Open repository](https://github.com/Saima040/smart-retail-pos) |
-| 🗳️ CR Election | [Explore my repositories](https://github.com/Saima040?tab=repositories) |
-| 🧠 ML Experiments | [Browse my work](https://github.com/Saima040?tab=repositories) |
+| Project | What it's about | Explore |
+|---|---|---|
+| 🛍️ Smart Retail POS | Team project focused on retail workflows and inventory management. | [Open repository](https://github.com/Saima040/smart-retail-pos) |
+| 🗳️ CR Election | An election app project focused on candidate and voter workflows. | [Browse repositories](https://github.com/Saima040?tab=repositories) |
+| 🧠 ML Experiments | Practical machine learning and model evaluation exercises. | [Browse repositories](https://github.com/Saima040?tab=repositories) |
 
-*Open each repository for its actual code, documentation, and implementation details.*
+*Explore each repository for its actual code, documentation, and implementation details. Some projects and research areas are still works in progress.*
 
 ---
 
@@ -118,15 +122,23 @@ Comparing model performance on clean and adversarial inputs to understand the tr
 
 **♡ Languages ♡**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=light" alt="Programming languages" />
+
+<br/><br/>
 
 **♡ Frameworks & Development ♡**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=dark" alt="Development frameworks" />
+<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=light" alt="Development frameworks" />
+
+<br/><br/>
 
 **♡ Tools & Workflow ♡**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=dark" alt="Developer tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=light" alt="Developer tools" />
+
+<br/><br/>
+
+<i>My toolbox keeps growing as I learn and build. 🌷</i>
 
 </div>
 
@@ -136,7 +148,7 @@ Comparing model performance on clean and adversarial inputs to understand the tr
 
 <div align="center">
 
-### Current curiosity
+### 🌸 Current curiosity
 
 **Can we make AI models more robust without sacrificing too much clean-data accuracy?**
 
@@ -151,7 +163,7 @@ My learning roadmap:
 - 📚 **Documentation:** Record experiments, results, limitations, and lessons learned.
 
 <details>
-<summary>🌸 Open my research principles</summary>
+<summary>🌸 My research principles</summary>
 
 <br/>
 
@@ -171,11 +183,11 @@ My learning roadmap:
 
 | ✨ Quest | 💜 My approach |
 |---|---|
-| 🧩 Solve a problem | Break it into smaller pieces |
-| 🐛 Meet a bug | Investigate before guessing |
-| 📚 Learn a concept | Test it with a practical example |
-| 🔬 Run an experiment | Measure, compare, and document |
-| 🌷 Improve a project | Make it useful, clear, and maintainable |
+| 🧩 Solve a problem | Break it into smaller pieces. |
+| 🐛 Meet a bug | Investigate before guessing. |
+| 📚 Learn a concept | Test it with a practical example. |
+| 🔬 Run an experiment | Measure, compare, and document. |
+| 🌷 Improve a project | Make it useful, clear, and maintainable. |
 
 </div>
 
@@ -183,28 +195,25 @@ My learning roadmap:
 
 ---
 
-## 💻 A Peek Into My GitHub
+## 💻 My GitHub Garden
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saima040&theme=tokyonight" width="100%" alt="GitHub contribution overview" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Saima040&style=flat-square&color=cba6f7&label=Curious+visitors" alt="Profile visitor counter" />
-
-</div>
-
-<details>
-<summary>🎀 What does this section show?</summary>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true" width="100%" alt="Pastel GitHub contribution activity graph" />
 
 <br/>
 
-The contribution overview visualizes activity recorded by GitHub. The visitor counter is an estimate from an external service, not a count of unique people.
+*Every contribution is a little step forward. 🌷*
 
-External services may occasionally be unavailable.
+<br/>
 
-</details>
+<img src="https://komarev.com/ghpvc/?username=Saima040&style=flat-square&color=cba6f7&label=Profile+visits" alt="Profile visit counter" />
+
+<br/>
+
+<sub>This counter estimates profile visits; it does not reliably count unique people.</sub>
+
+</div>
 
 ---
 
@@ -219,7 +228,7 @@ I'd love to explore, learn, and build meaningful things with curious people. ♡
 <br/>
 
 <a href="https://github.com/Saima040">
-  <img src="https://img.shields.io/badge/Visit_my_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
+  <img src="https://img.shields.io/badge/Visit_my_GitHub-cba6f7?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub" />
 </a>
 
 <br/><br/>
