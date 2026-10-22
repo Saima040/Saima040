@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/hijabi-ai-girl.png" width="210" alt="Cute hijabi girl coding sticker" />
+<img src="" width="210" alt="Cute hijabi girl coding sticker" />
 
 # Hi, I'm Saima! 💜
 
