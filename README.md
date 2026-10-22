@@ -1,9 +1,8 @@
-
-
 <p align="center">
-  <img src="assets/hijabi-ai-girl.png" width="280" alt="Cute hijabi girl waving hello" />
+  <img src="assets/hi-duck.png"
+       width="250"
+       alt="Cute duck waving hi" />
 </p>
-
 
 # ୨୧ 𝒮𝒶𝒾𝓂𝒶'𝓈 𝒞𝑜𝒹𝑒 𝒞𝑜𝓇𝓃𝑒𝓇 💜
 
