@@ -1,7 +1,9 @@
 
-<div align="center">
 
-<img src="assets/hijabi-ai-girl.png" width="190" alt="Saima's hijabi coding mascot" />
+<p align="center">
+  <img src="assets/hijabi-ai-girl.png" width="280" alt="Cute hijabi girl waving hello" />
+</p>
+
 
 # ୨୧ 𝒮𝒶𝒾𝓂𝒶'𝓈 𝒞𝑜𝒹𝑒 𝒞𝑜𝓇𝓃𝑒𝓇 💜
 
