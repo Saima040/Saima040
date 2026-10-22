@@ -203,11 +203,7 @@ My learning roadmap:
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity in pastel colors"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saima040&bg_color=fff7fc&color=9b72b0&line=e6a4d7&point=ba91df&area=true&hide_border=true" width="100%" alt="Pastel GitHub contribution activity graph" />
 </p>
 
 <p align="center">
