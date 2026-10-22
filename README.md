@@ -122,7 +122,7 @@ Comparing model performance on clean and adversarial inputs to understand the tr
 
 **♡ Languages ♡**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart&theme=light" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,dart" alt="Programming languages" />
 
 <br/><br/>
 
