@@ -116,40 +116,46 @@ Comparing model performance on clean and adversarial inputs to understand the tr
 
 ---
 
+
+---
+
 ## 🧸 My Digital Toolbox
 
 <div align="center">
 
-**♡ Languages ♡**
+### ♡ Languages ♡
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" alt="Dart" />
 </p>
 
+### ♡ Frameworks & Development ♡
 
-<br/><br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI" />
+</p>
 
-**♡ Frameworks & Development ♡**
+### ♡ Tools & Workflow ♡
 
-<img src="https://skillicons.dev/icons?i=react,flutter,fastapi,html,css&theme=light" alt="Development frameworks" />
-
-<br/><br/>
-
-**♡ Tools & Workflow ♡**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql&theme=light" alt="Developer tools" />
-
-<br/><br/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker" />
+</p>
 
 <i>My toolbox keeps growing as I learn and build. 🌷</i>
 
 </div>
 
----
 
 ## 💌 My Research Notebook
 
