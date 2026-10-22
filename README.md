@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hi-duck.png"
+  <img src="cute_kawaii_illustration_of_a_cartoon_duck_saying.png"
        width="250"
        alt="Cute duck waving hi" />
 </p>
