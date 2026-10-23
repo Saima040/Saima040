@@ -3,7 +3,7 @@
        width="250"
        alt="Cute duck waving hi" />
 </p>
-🎀 𝒮𝒶𝒾𝓂𝒶'𝓈 𝒢𝒾𝓉 𝒞𝑜𝓇𝓃𝑒𝓇 💜
+# ୨୧ 𝒮𝒶𝒾𝓂𝒶'𝓈 𝒞𝑜𝒹𝑒 𝒞𝑜𝓇𝓃𝑒𝓇 💜
 
 ### 𐙚 CSE Student · AI/ML Explorer · AI Security Enthusiast
 
